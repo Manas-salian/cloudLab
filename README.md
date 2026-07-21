@@ -16,6 +16,6 @@
 
 Then visit the public DNS in your browser:
 
-`ec2-3-83-145-155.compute-1.amazonaws.com`
+[ec2-3-83-145-155.compute-1.amazonaws.com](ec2-3-83-145-155.compute-1.amazonaws.com)
 
-![Web server screenshot placeholder](path/to/image.png)
+![Web server screenshot placeholder](Capture.PNG)
